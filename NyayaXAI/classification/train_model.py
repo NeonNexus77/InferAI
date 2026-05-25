@@ -42,9 +42,14 @@ from classification.embedder import generate_embeddings
 # Load training table (``text``, ``label``)
 # ---------------------------------------------------------------------------
 
-df = pd.read_csv("dataset/raw/nyaya_dataset.csv")
+train_path = Path("dataset/raw/nyaya_dataset_merged.csv")
+if not train_path.is_file():
+    train_path = Path("dataset/raw/nyaya_dataset.csv")
+
+df = pd.read_csv(train_path)
 texts = df["text"].astype(str)
-labels = df["label"].astype(str)
+label_col = "pramana_label" if "pramana_label" in df.columns else "label"
+labels = df[label_col].astype(str)
 
 label_encoder = LabelEncoder()
 y = label_encoder.fit_transform(labels)
