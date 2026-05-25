@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+     Anumana     1.0000    0.9957    0.9979       235
+  Pratyaksha     1.0000    1.0000    1.0000       176
+      Shabda     1.0000    0.9920    0.9960       250
+     Upamana     0.9835    1.0000    0.9917       179
+
+    accuracy                         0.9964       840
+   macro avg     0.9959    0.9969    0.9964       840
+weighted avg     0.9965    0.9964    0.9964       840

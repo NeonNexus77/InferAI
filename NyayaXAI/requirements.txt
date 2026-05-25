@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+joblib
+fastapi
+uvicorn
+httpx
+shap
+streamlit
+matplotlib
+seaborn

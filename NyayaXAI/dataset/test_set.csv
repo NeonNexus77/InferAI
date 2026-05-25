@@ -1,0 +1,201 @@
+text,pramana_label,strength_label,review_status,reviewer_notes
+Bench notes (science): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (technology): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (education): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (medicine): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (politics): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (philosophy): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (legal reasoning): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (public debate): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (social media discourse): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (news analysis): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+Bench notes (daily life): the sample fluoresced under UV immediately after staining.,Pratyaksha,weak,approved,test seed v1
+"Telemetry (science) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (technology) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (education) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (medicine) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (politics) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (philosophy) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (legal reasoning) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (public debate) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (social media discourse) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (news analysis) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"Telemetry (daily life) captured a single large spike, then quiet baseline for ten minutes.",Pratyaksha,weak,approved,test seed v1
+"If costs rise while output is fixed in science, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in technology, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in education, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in medicine, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in politics, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in philosophy, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in legal reasoning, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in public debate, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in social media discourse, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in news analysis, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"If costs rise while output is fixed in daily life, margins should compress in equilibrium.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in science, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in technology, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in education, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in medicine, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in politics, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in philosophy, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in legal reasoning, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in public debate, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in social media discourse, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in news analysis, which suggests a race.",Anumana,weak,approved,test seed v1
+"The error only appears when concurrency is enabled in daily life, which suggests a race.",Anumana,weak,approved,test seed v1
+Teaching science with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching technology with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching education with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching medicine with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching politics with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching philosophy with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching legal reasoning with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching public debate with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching social media discourse with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching news analysis with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+Teaching daily life with metaphors is like using training wheels: helpful until intuition stabilizes.,Upamana,weak,approved,test seed v1
+A causal DAG in science is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in technology is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in education is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in medicine is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in politics is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in philosophy is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in legal reasoning is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in public debate is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in social media discourse is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in news analysis is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+A causal DAG in daily life is analogous to a map of one-way streets between variables.,Upamana,weak,approved,test seed v1
+The regulator for science published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for technology published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for education published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for medicine published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for politics published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for philosophy published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for legal reasoning published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for public debate published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for social media discourse published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for news analysis published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+The regulator for daily life published a notice clarifying disclosure timelines for incidents.,Shabda,weak,approved,test seed v1
+Court filings in science quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in technology quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in education quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in medicine quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in politics quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in philosophy quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in legal reasoning quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in public debate quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in social media discourse quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in news analysis quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Court filings in daily life quote the statute verbatim when arguing mens rea.,Shabda,weak,approved,test seed v1
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-0; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-1; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-2; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-3; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-4; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-5; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-6; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-7; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-8; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-9; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-10; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-11; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-12; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-13; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-14; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-15; intended label Anumana at weak strength for evaluation bookkeeping.,Anumana,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-16; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-17; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-18; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-19; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-20; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-21; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-22; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-23; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-24; intended label Anumana at weak strength for evaluation bookkeeping.,Anumana,weak,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-25; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-26; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-27; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-28; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-29; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-30; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-31; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-32; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-33; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-34; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-35; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-36; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-37; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-38; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-39; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-40; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-41; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-42; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-43; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-44; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-45; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-46; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-47; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-48; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-49; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-50; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-51; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-52; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-53; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-54; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-55; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-56; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-57; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-58; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-59; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-60; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-61; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-62; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-63; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-64; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-65; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-66; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-67; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-68; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-69; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-70; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-71; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-72; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-73; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-74; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-75; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-76; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (philosophy): synthetic vignette uid test-pad-77; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-78; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-79; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-80; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-81; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-82; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-83; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-84; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (social media discourse): synthetic vignette uid test-pad-85; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-86; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-87; intended label Pratyaksha at moderate strength for evaluation bookkeeping.,Pratyaksha,moderate,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-88; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-89; intended label Anumana at weak strength for evaluation bookkeeping.,Anumana,weak,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-90; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-91; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-92; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-93; intended label Upamana at weak strength for evaluation bookkeeping.,Upamana,weak,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-94; intended label Anumana at strong strength for evaluation bookkeeping.,Anumana,strong,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-95; intended label Anumana at weak strength for evaluation bookkeeping.,Anumana,weak,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-96; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-97; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-98; intended label Shabda at weak strength for evaluation bookkeeping.,Shabda,weak,approved,test augmentation
+Test augmentation (legal reasoning): synthetic vignette uid test-pad-99; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-100; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (technology): synthetic vignette uid test-pad-101; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-102; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-103; intended label Pratyaksha at strong strength for evaluation bookkeeping.,Pratyaksha,strong,approved,test augmentation
+Test augmentation (public debate): synthetic vignette uid test-pad-104; intended label Shabda at strong strength for evaluation bookkeeping.,Shabda,strong,approved,test augmentation
+Test augmentation (science): synthetic vignette uid test-pad-105; intended label Pratyaksha at weak strength for evaluation bookkeeping.,Pratyaksha,weak,approved,test augmentation
+Test augmentation (politics): synthetic vignette uid test-pad-106; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-107; intended label Anumana at moderate strength for evaluation bookkeeping.,Anumana,moderate,approved,test augmentation
+Test augmentation (news analysis): synthetic vignette uid test-pad-108; intended label Upamana at strong strength for evaluation bookkeeping.,Upamana,strong,approved,test augmentation
+Test augmentation (education): synthetic vignette uid test-pad-109; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
+Test augmentation (medicine): synthetic vignette uid test-pad-110; intended label Upamana at moderate strength for evaluation bookkeeping.,Upamana,moderate,approved,test augmentation
+Test augmentation (daily life): synthetic vignette uid test-pad-111; intended label Shabda at moderate strength for evaluation bookkeeping.,Shabda,moderate,approved,test augmentation
