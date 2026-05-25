@@ -2,17 +2,21 @@ import spacy
 
 nlp = spacy.load("en_core_web_sm")
 
-def segment_text(text):
+def detect_negation(text):
 
     doc = nlp(text)
 
-    segments = []
+    negated_words = []
 
-    for sent in doc.sents:
-        segments.append(sent.text.strip())
+    for token in doc:
 
-    return segments
+        for child in token.children:
 
-text = "Experts say climate change is worsening because temperatures are rising."
+            if child.dep_ == "neg":
+                negated_words.append(token.text)
 
-print(segment_text(text))    
+    return negated_words
+
+text = "It is not observed that pollution increased."
+
+print(detect_negation(text))    

@@ -13,6 +13,4 @@ def segment_text(text):
 
     return segments
 
-text = "Experts say climate change is worsening because temperatures are rising."
-
-print(segment_text(text))    
+   
