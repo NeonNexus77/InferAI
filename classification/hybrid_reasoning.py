@@ -125,7 +125,11 @@ def hybrid_fuse(
         Names aligned with ``ml_probs`` indices. If ``None``, use default tuple
         (callers should pass ``label_encoder.classes_`` from disk).
     """
-    order = tuple(class_order) if class_order is not None else DEFAULT_CLASS_ORDER
+    if class_order is not None:
+        order = tuple(class_order)
+    else:
+        order = DEFAULT_CLASS_ORDER
+
     p_ml = _norm_vec(np.asarray(ml_probs, dtype=np.float64).reshape(-1))
     p_rules = rule_distribution(text, class_order=order)
     fused = ml_weight * p_ml + rule_weight * p_rules
